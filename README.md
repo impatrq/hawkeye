@@ -37,3 +37,10 @@
   - Villaescusa, Valentino ➔ 📧 Correo: gannival13@gmail.com
                            ➔ 📷 Instagram: [valen.uwu.18](https://www.instagram.com/valen.uwu.18/)
   
+## GRACIAS POR LEER
+
+<div align="center">
+  
+  ![ADIOS](https://acegif.com/wp-content/uploads/2021/4fh5wi/squirrel-animated-gif-15.gif)
+
+</div>
