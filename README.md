@@ -24,15 +24,15 @@
   * 📧 Correo ➔ hawkeyeproyectimpa@gmail.com
 
 **Desarrolladores:**
-  - Garabato, Franco ➔ 📧 Correo: 
+  - Garabato, Franco ➔ 📧 Correo: garabato1069@gmail.com
                      ➔ 📷 Instagram: [fran_garabato](https://www.instagram.com/fran_garabato/)
   - Orellano, Uriel ➔ 📧 Correo: uriel.ore9@gmail.com
                     ➔ 📷 Instagram: [awsxyz](https://www.instagram.com/awsxyz/)
-  - Palacios, Zhang Lin ➔ 📧 Correo: 
+  - Palacios, Zhang Lin ➔ 📧 Correo: zlpalacios@hotmail.com
                         ➔ 📷 Instagram: [zhanglinpalacios](https://www.instagram.com/zhanglinpalacios/)
   - Sala, Agustín ➔ 📧 Correo: agustinsala-maxi@outlook.com
                   ➔ 📷 Instagram: [agus_maxi_sala](https://www.instagram.com/agus_maxi_sala/)
-  - Solís, Nicolás ➔ 📧 Correo: 
+  - Solís, Nicolás ➔ 📧 Correo: nikoletto777760@gmail.com
                    ➔ 📷 Instagram: [niko_solis9](https://www.instagram.com/niko_solis9/)
   - Villaescusa, Valentino ➔ 📧 Correo: gannival13@gmail.com
                            ➔ 📷 Instagram: [valen.uwu.18](https://www.instagram.com/valen.uwu.18/)
