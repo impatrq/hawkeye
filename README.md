@@ -4,13 +4,13 @@
 
 </div>
 
-## ¿Que es Hawkeye? 🤩
+## ¿Que es Hawkeye?
   **Hawkeye** es un sistema desarrollado para asistir a la detección temprana de focos de incendios forestales a través del patrullaje de una flota de drones autónomos.
 
-## ¿De donde surje Hawkeye? 🤨
+## ¿De donde surje Hawkeye?
   Este nace de la excesiva cantidad de territorio argentino incendiado el año pasado (2020), el cual superaba las **1.1 millones de hectareas**.
   
-## ¿Como Funciona Hawkeye? 😲
+## ¿Como Funciona Hawkeye?
   Gracias a un sistema de transimision de datos via **Wi-Fi**, sus multiples **sensores** y su eficaz **aplicacion Android**. Todos estos se combinan de forma correcta para transmitir al usuario la alerta de fuego de la forma mas rapida posible.
   
 ## Reconocimientos
@@ -36,11 +36,4 @@
                    ➔ 📷 Instagram: [niko_solis9](https://www.instagram.com/niko_solis9/)
   - Villaescusa, Valentino ➔ 📧 Correo: gannival13@gmail.com
                            ➔ 📷 Instagram: [valen.uwu.18](https://www.instagram.com/valen.uwu.18/)
-  
-## GRACIAS POR LEER
-
-<div align="center">
-  
-  ![ADIOS](https://acegif.com/wp-content/uploads/2021/4fh5wi/squirrel-animated-gif-15.gif)
-
-</div>
+ 
